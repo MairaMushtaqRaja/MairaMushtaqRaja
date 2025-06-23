@@ -2,7 +2,7 @@
 ![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Maira Mushtaq</h1>
 <h3 align="center">Full Stack MERN Developer 🚀</h3>
-<img align="right" alt="coding" src="https://i.gifer.com/JXA0.gif" width="400">
+<img align="right" alt="coding" src="https://i.gifer.com/JXA0.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairamushtaqraja&label=Profile%20views&color=0e75b6&style=flat" alt="mairamushtaqraja" /> </p>
 
