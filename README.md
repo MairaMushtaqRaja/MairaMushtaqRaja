@@ -1,7 +1,6 @@
-# 👋 Hi,<h1 align="center">Hi 👋, I'm Maira Mushtaq</h1>
+<h1 align="center">Hi 👋, I'm Maira Mushtaq</h1>
 <h3 align="center">Full Stack MERN Developer 🚀</h3>
-<img align="right" alt="coding" 
-src="https://global.discourse-cdn.com/freecodecamp/original/3X/1/b/1b18854f1059217f29370444396145cc3a0cd8ae.gif"
+<img align="right" alt="coding" width="400"  src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairamushtaqraja&label=Profile%20views&color=0e75b6&style=flat" alt="mairamushtaqraja" /> </p>
 
 - 📫 How to reach me **mairamushtaq452@gmail.com**
@@ -10,7 +9,7 @@ src="https://global.discourse-cdn.com/freecodecamp/original/3X/1/b/1b18854f10592
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maira-mushtaq-26723b287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maira-mushtaq-26723b287/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maira-mushtaq-26723b287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maira-mushtaq-26723b287/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
