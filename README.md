@@ -1,11 +1,4 @@
-## Hi there 
-
-<!--
-**MairaMushtaqRaja/MairaMushtaqRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Maira Mushtaq</h1>
+# 👋 Hi,<h1 align="center">Hi 👋, I'm Maira Mushtaq</h1>
 <h3 align="center">Full Stack MERN Developer 🚀</h3>
 <img align="right" alt="coding" 
 src="https://global.discourse-cdn.com/freecodecamp/original/3X/1/b/1b18854f1059217f29370444396145cc3a0cd8ae.gif"
@@ -28,11 +21,3 @@ src="https://global.discourse-cdn.com/freecodecamp/original/3X/1/b/1b18854f10592
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mairamushtaqraja&show_icons=true&locale=en" alt="mairamushtaqraja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mairamushtaqraja&" alt="mairamushtaqraja" /></p>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
