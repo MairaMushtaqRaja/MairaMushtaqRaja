@@ -2,7 +2,7 @@
 ![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Maira Mushtaq</h1>
 <h3 align="center">Full Stack MERN Developer 🚀</h3>
-<img align="right" alt="coding" src="https://i.gifer.com/JXA0.gif" width="300">
+<img align="right" alt="coding" src="https://cdn.dribbble.com/userupload/41784761/file/original-a61a9e3e4588d69413bf0c7e35853cfc.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairamushtaqraja&label=Profile%20views&color=0e75b6&style=flat" alt="mairamushtaqraja" /> </p>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maira-mushtaq-26723b287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maira-mushtaq-26723b287/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maira-mushtaq-26723b287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maira-mushtaq-26723b287/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
